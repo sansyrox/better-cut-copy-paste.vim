@@ -7,6 +7,7 @@ We've all been there. This plugin tries to solve solve that issue.
 
 Now simple delete commands will not copy anything to your registers.
 
-e.g.: to delete 2 words, you can do `d2w`. But to cut you'll have to do `^D2w`, i.e. `ctrl+shift+D+2+w`
+e.g.: to delete 2 words, you can do `d2w`. But to cut you'll have to do `^x2w`, i.e. `ctrl+shift+x+2+w` or a simple `ctrl+x+2+w`
 
-similar for `c` and `x` mappings
+to delete and get in insert mode, you can do `c2w`. But to cut, you'll have to do `^c2w`, i.e. `ctrl+shift+c+2+w` or a simple `ctrl+c+2+w`
+
