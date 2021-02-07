@@ -11,3 +11,9 @@ e.g.: to delete 2 words, you can do `d2w`. But to cut you'll have to do `^x2w`, 
 
 to delete and get in insert mode, you can do `c2w`. But to cut, you'll have to do `^c2w`, i.e. `ctrl+shift+c+2+w` or a simple `ctrl+c+2+w`
 
+
+## Installation
+
+Use a plugin manager:
+
+`Plug 'sansyrox/better-cut-copy-paste.vim'`
