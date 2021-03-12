@@ -13,7 +13,7 @@ nnoremap x "_x
 nnoremap d "_d
 nnoremap c "_c
 
-" xnoremap p "_p
+xnoremap <expr> P '"_d"'.v:register.'P'
 xnoremap x "_x
 xnoremap d "_d
 xnoremap c "_c
