@@ -12,10 +12,17 @@ xnoremap <C-c> c
 nnoremap x "_x
 nnoremap d "_d
 nnoremap c "_c
+nnoremap X "_X
+nnoremap D "_D
+nnoremap C "_C
+
 
 xnoremap <expr> P '"_d"'.v:register.'P'
 xnoremap <expr> p '"_d"'.v:register.'p'
 xnoremap x "_x
 xnoremap d "_d
 xnoremap c "_c
+xnoremap X "_X
+xnoremap D "_D
+xnoremap C "_C
 
